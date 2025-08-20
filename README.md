@@ -17,5 +17,3 @@ I'm a passionate student from Nairobi, Kenya, with a deep love for technology an
 - 📧 Feel free to reach out to me for collaboration, questions, or simply to share ideas! 
 
 Thank you for visiting my profile. I look forward to connecting with fellow tech enthusiasts!
-
--
