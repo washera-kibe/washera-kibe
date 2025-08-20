@@ -13,7 +13,7 @@ I'm a passionate student from Nairobi, Kenya, with a deep love for technology an
 
 - 🎓 As a student, I aim to collaborate on projects, contribute to open-source, and continually push my boundaries in tech.
 
- 🌍 Let's Connect!
-- 📧 Feel free to reach out to me for collaboration, questions, or simply to share ideas! 
+ 🌍 Let's Connect! 
+- 📧 Feel free to reach out at washerakibe@gmail.com for collaboration, questions, or simply to share ideas!
 
 Thank you for visiting my profile. I look forward to connecting with fellow tech enthusiasts!
