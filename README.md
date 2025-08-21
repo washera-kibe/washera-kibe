@@ -4,10 +4,10 @@ I'm a passionate student from Nairobi, Kenya, with a deep love for technology an
 
  🚀 About Me
 - 🌱 I am currently learning Front-End Development with a focus on:
- - ![HTML](https://img.icons8.com/color/20/000000/html-5.png) HTML
- - ![CSS](https://img.icons8.com/color/20/000000/css3.png) CSS
- - ![JavaScript](https://img.icons8.com/color/20/000000/javascript.png) JavaScript
- - ![JavaScript Frameworks](https://img.icons8.com/color/20/000000/react-native.png) JavaScript frameworks (e.g., React, Vue.js)
+        - ![HTML](https://img.icons8.com/color/20/000000/html-5.png) HTML
+        - ![CSS](https://img.icons8.com/color/20/000000/css3.png) CSS
+        - ![JavaScript](https://img.icons8.com/color/20/000000/javascript.png) JavaScript
+        - ![JavaScript Frameworks](https://img.icons8.com/color/20/000000/react-native.png) JavaScript frameworks (e.g., React, Vue.js)
 - 💻 I am eager to expand my skill set and delve into Back-End Development as well, with the goal of becoming proficient in both areas.
 
 - 🎓 As a student, I aim to collaborate on projects, contribute to open-source, and continually push my boundaries in tech.
