@@ -17,3 +17,7 @@ I'm a passionate student from Nairobi, Kenya, with a deep love for technology an
 - 📧 Feel free to reach out at washerakibe@gmail.com for collaboration, questions, or simply to share ideas!
 
 Thank you for visiting my profile. I look forward to connecting with fellow tech enthusiasts!
+![HTML](https://img.icons8.com/color/20/000000/html-5.png) HTML
+ - ![CSS](https://img.icons8.com/color/20/000000/css3.png) CSS
+ - ![JavaScript](https://img.icons8.com/color/20/000000/javascript.png) JavaScript
+ - ![JavaScript Frameworks](https://img.icons8.com/color/20/000000/react-native.png) JavaScript frameworks (e.g., React, Vue.js)
